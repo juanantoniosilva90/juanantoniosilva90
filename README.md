@@ -1,16 +1,16 @@
-### Hi there 👋
+# System.out.println("Hola, mundo"); 
+# Mi nombre es Juan Antonio Silva Flores, Ingeniero informático y Desarrollador Java Jr Full Stack *enfocado más al Back End*👋
+## Egresado del Tecnológico de Estudios Superiores de Ecatepec y apasionado del aprendizaje y enseñanza constante
 
-<!--
-**juanantoniosilva90/juanantoniosilva90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Freelance en busca de retos para explotar sus habilidades y mejorarlas, siempre propositivo.
+- 🌱 Aprendizaje constante en Java ☕ y Noob en Python 🐍
+- 🤔 Pienso, luego codifico
+- > 💡 Cuando estás solucionando un problema, «no te preocupes». «Después» de que has resuelto el problema «es el momento de preocuparse». - Richard Feynman
 
-Here are some ideas to get you started:
+# Visita [mi perfil de LinkedIn](https://www.linkedin.com/in/jasilvaf9003/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
