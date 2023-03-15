@@ -2,7 +2,7 @@
 # Mi nombre es Juan Antonio Silva Flores 💻 Ingeniero informático y ♨ Desarrollador Java Jr Full Stack *inclinado al Back End*👋
 ## 🎓Egresado del Tecnológico de Estudios Superiores de Ecatepec y apasionado del aprendizaje y enseñanza constante
 
-#  I'm Juan Antonio Silva Flores 💻 Computer Engineer ♨ Java Full Stack Dev Jr *inclinado al Back End*👋
+#  I'm Juan Antonio Silva Flores 💻 Computer Engineer ♨ Java Full Stack Dev Jr *Back End focussed*👋
 ## 🎓Tecnologico de Estudios Superiores de Ecatepec graduated, learning and teaching passionated
  
 
