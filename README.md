@@ -11,7 +11,7 @@
 - 🤔 Pienso, luego codifico
 - > 💡 Cuando estás solucionando un problema, no te preocupes "después" de que has resuelto el problema. *Es el momento de preocuparse*. - Richard Feynman
 
-# Visita [mi perfil de LinkedIn](https://www.linkedin.com/in/jasilvaf9003/)
+# Visita [mi perfil de LinkedIn](https://www.linkedin.com/in/juanantoniosilvaflores/)
 
 
 
