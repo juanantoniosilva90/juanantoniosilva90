@@ -10,8 +10,7 @@
 - 📝 Mejora constante en Java  ☕    8️⃣           1️⃣1️⃣              1️⃣7️⃣      
 - 🍼 Noob en Python 🐍 
 - 🔋 Bases de datos relacionales MySQL 🐬 PostgreSQL 🐘 y Oracle ⭕ y no relacionales con 🍃MongoDB
-- 🌿 Feligrés empedernido de Spring FRamework, Springboot y Spring Cloud
-- 
+- 🌿 Feligrés empedernido de Spring Framework, 🟢 Springboot y ☁️ Spring Cloud
 - 🤔 Pienso, luego codifico
 - > 💡 _Cuando estás solucionando un problema, no te preocupes "después" de que has resuelto el problema. *Es el momento de preocuparse*._ - Richard Feynman
 
