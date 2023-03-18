@@ -7,7 +7,7 @@
  
 
 - 🧠 En Stand By por la crisis, en busca de retos para explotar sus habilidades y mejorarlas, siempre propositivo.
-- 📝 Mejora constante en Java  ☕    8️⃣    1️⃣1️⃣   1️⃣7️⃣      
+- 📝 Mejora constante en Java  ☕    8️⃣           1️⃣1️⃣              1️⃣7️⃣      
 - 🍼 Noob en Python 🐍 
 - 🔋 Bases de datos relacionales MySQL 🐬 PostgreSQL 🐘 y Oracle ⭕ y no relacionales con 🍃MongoDB
 - 🌿 Feligrés empedernido de Spring FRamework, Springboot y Spring Cloud
