@@ -1,13 +1,17 @@
 
 # Mi nombre es Juan Antonio Silva Flores 💻 Ingeniero informático y ♨ Desarrollador Java Jr Full Stack *inclinado al Back End*👋
-## 🎓 Egresado del Tecnológico de Estudios Superiores de Ecatepec y apasionado del aprendizaje y enseñanza constante
+## 🎓 Egresado del Tecnológico de Estudios Superiores de Ecatepec y apasionado de la mejora continua y la enseñanza.
 
 #  I'm Juan Antonio Silva Flores 💻 Computer Engineer ♨ Java Full Stack Dev Jr *Back End focussed*👋
-## 🎓 Tecnologico de Estudios Superiores de Ecatepec graduated, learning and teaching passionated
+## 🎓 Tecnologico de Estudios Superiores de Ecatepec graduated, continuous improvement and learning passionate.
  
 
-- 🧠 En Stand By forzado por la crisis, en busca de retos para explotar sus habilidades y mejorarlas, siempre propositivo.
-- 📝 Aprendizaje constante en Java ☕ y Noob en Python 🐍
+- 🧠 En Stand By por la crisis, en busca de retos para explotar sus habilidades y mejorarlas, siempre propositivo.
+- 📝 Mejora constante en Java  ☕    8️⃣    1️⃣1️⃣   1️⃣7️⃣      
+- 🍼 Noob en Python 🐍 
+- 🔋 Bases de datos relacionales MySQL 🐬 PostgreSQL 🐘 y Oracle ⭕ y no relacionales con 🍃MongoDB
+- 🌿 Feligrés empedernido de Spring FRamework, Springboot y Spring Cloud
+- 
 - 🤔 Pienso, luego codifico
 - > 💡 _Cuando estás solucionando un problema, no te preocupes "después" de que has resuelto el problema. *Es el momento de preocuparse*._ - Richard Feynman
 
