@@ -6,7 +6,9 @@
 ## 🎓 Tecnologico de Estudios Superiores de Ecatepec graduated, continuous improvement and learning passionate.
  
 
-- 🧠 En Stand By por la crisis, en busca de retos para explotar sus habilidades y mejorarlas, siempre propositivo.
+- 💻 Arquitecto de solución en Neoris.
+- 💻 Arquitecto de software en proceso
+- 📝 MCC en proceso
 - 📝 Mejora constante en Java  ☕    8️⃣           1️⃣1️⃣              1️⃣7️⃣      
 - 🍼 Noob en Python 🐍 
 - 🔋 Bases de datos relacionales MySQL 🐬 PostgreSQL 🐘 y Oracle ⭕ y no relacionales con 🍃MongoDB
